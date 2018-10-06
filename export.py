@@ -1,9 +1,4 @@
-
-# coding: utf-8
-
-# In[2]:
-
-
+"""This is a test."""
 a = 3
 b = 1
 
@@ -14,7 +9,7 @@ print(a+b)
 # In[3]:
 
 
-c="hello "+str(a+b)
+c = "hello "+str(a+b)
 print(c)
 print(len(c))
 
@@ -22,7 +17,7 @@ print(len(c))
 # In[22]:
 
 
-for i in range(2,5):
+for i in range(2, 5):
     print(i)
 
 
@@ -32,5 +27,4 @@ for i in range(2,5):
 string = 'string'
 for i in range(11):
     string += str(i)
-print (string)
-
+print(string)
