@@ -80,6 +80,28 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+
+### Example table
+
+Generally easier than previous exam. Across 5 different domains.
+
+| Objective     | Weighting                           |
+| ------------- |:-----------------------------------:|
+| Design Resilient Architectures                | 34% |
+| Define Performant Architectures                | 24% |
+| Specify Secure Applications and Architectures | 26% |
+
+another table
+
+|Objective| Weighting|
+| ------------- |:-------------:|
+| Design Resilient Architectures|34%|
+| Define Performant Architectures|24%|
+| Specify Secure Applications and Architectures | 26% |
+
+
+
+
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
